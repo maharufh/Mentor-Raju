@@ -2,7 +2,7 @@ Website demo link: https://mentorraju.netlify.app/
 
 demo: https://youtu.be/X8i9vv5f65A?si=TZNtfipZ44SCK2oS
 
-output
+Output
 [website.pdf](https://github.com/maharufh/Mentor-Raju/files/14469388/website.pdf)
 
 fullstack: https://college-chitta.onrender.com/
